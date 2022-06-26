@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anugrah Nambiar</h1>
-<h3 align="center">I am beginner in programming</h3>
+<h3 align="center">Passionate Programmer</h3>
 
 - 🌱 I’m currently learning **Html,CSS and JavaScript**
 
